@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+<meta name="description" content="Southern Gardening provides in-depth articles and weekly news and tips on gardening in the Coastal South region of the U.S., focusing on North Central Florida.">
+<meta name="keyword" content="garden, gardening, southern gardening, florida gardening, regional gardening, nature gardening, groundcover landscape, landscaping, native plants, flowers, vegetables, gainesville, lawn, yard, xeriscape, xeriscaping">
+<meta name="author" content="Southern Gardening / http://www.southerngardening.org">
+<meta name="copyright" content="Copyright 2014 Southern Gardening">
+<meta name="robots" content="index, follow">
+<meta name="revisit-after" content="1 month">
+<title>TITLE</title>
+<link href="/main.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<table style="font-family: Helvetica,Arial,sans-serif;" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 180px; vertical-align: top; background-color: ;">
+      <div style="text-align: center;"><!--#include virtual="includes/left_column.shtml"--> 
+      </div>
+
+</td>
+
+<td style="width: 627px; vertical-align: top; background-color: #FFFFFF;">
+<!--#include virtual="includes/navigation.shtml"--> 
+<div style="margin-left: 15px; margin-right: 10px;"><hr>
+CONTENT HERE
+</div>
+</td>
+</tr>
+<tr>
+<td style="width: 180px;"></td>
+<td style="width: 627px; valign: middle;" align="center"><!--#include virtual="includes/footer.shtml"--> 
+</td>
+</tr>
+</tbody>
+</table>
+</body></html>

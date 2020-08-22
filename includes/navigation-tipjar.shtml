@@ -1,0 +1,125 @@
+
+
+<head>
+<link rel="stylesheet" type="text/css" href="/chromemenu/chrometheme/chromestyle.css" />
+
+<script type="text/javascript" src="/chromemenu/chromejs/chrome.js">
+
+/***********************************************
+* Chrome CSS Drop Down Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+</script>
+
+</head>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody>
+
+    <tr>
+      <td align="left" height="24" valign="middle" width="100%">
+        <table border="0" cellpadding="10" cellspacing="0" width="100%">
+          <tr>
+            <td>
+              <h2 align="center">Southern Gardening</h2>
+              <h3 align="center">What Do You Want to Grow Today?</h3>
+            </td>
+            <td width="150">
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<p align="center">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+">
+<input type="image" src="http://southerngardening.org/images/tip_jar.jpg" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" width="75" height="68">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+<p align="center">
+
+<b><i>
+
+Help Us<br>
+Keep Growing!</i></b>
+</p>
+              </td>
+          </tr>
+        </table>
+        <div class="chromestyle" id="chromemenu">
+<ul>
+<li><a href="/index.html">Home</a></li>
+<li><a href="#" rel="dropmenu1">Southern Gardening</a></li>
+<li><a href="#" rel="dropmenu2">Notestein's Nursery</a></li>
+<!--<li><a href="#" rel="dropmenu3">Donate</a></li>
+<li><a href="#" rel="dropmenu5">Apply for a Home</a></li>
+<li><a href="http://www.dynamicdrive.com">Photos & Videos</a></li>	 -->
+<li><a href="/contact.html">Contact</a></li>
+</ul>
+</div>
+
+<!--1st drop down menu -->
+<div id="dropmenu1" class="dropmenudiv" style="width: 150px;">
+<a href="/l&g calendar.shtml">Lawn & Garden Calendar</a>
+<a href="/tips_help.shtml">Tips & Help</a>
+<a href="/rec_reading.shtml">Recommended Reading</a>
+<a href="/links.shtml">Links</a>
+<a href="/contact.shtml">Contact</a>
+</div>
+
+
+<!--2nd drop down menu -->
+<div id="dropmenu2" class="dropmenudiv" style="width: 150px;">
+<a href="/plants.shtml">Plant Catalog</a>
+<!--<a href="http://www.nfgrows.com/index.php?main_page=index&cPath=11&zenid=7ddbl5r5jsktp50hepepgqopl1" target="_blank">Buy Online</a>-->
+<a href="/rocks.shtml">Landscape Rocks</a>
+<a href="/dbn.html" >Designs by Notestein</a>
+<a href="/about.shtml">About Jim Notestein</a>
+<a href="/contact.html">Contact</a>
+<!--<a href="http://www.msnbc.com">Help Wanted</a>
+<a href="http://www.msnbc.com">Volunteer Online</a>
+<a href="http://www.msnbc.com">Volunteer by Mail</a>
+<a href="http://www.msnbc.com">Preparing for Work</a>
+<a href="http://www.msnbc.com">Volunteer Waiver Form</a>
+<a href="http://www.msnbc.com">Waiver Form for Minors</a>
+<a href="http://www.msnbc.com">Volunteer Nationally</a> -->
+</div>
+
+<!--3rd drop down menu
+<div id="dropmenu3" class="dropmenudiv" style="width: 150px;">
+<a href="http://www.google.com/">Ways to Donate</a>
+<a href="http://www.yahoo.com">Square Foot Club</a>
+<a href="http://www.msn.com">Monetary Donations</a>
+<a href="http://www.msn.com">Services</a>
+<a href="http://www.msn.com">Cars for Homes</a>
+<a href="http://www.msn.com">In Loving Memory</a>
+<a href="http://www.msn.com">Materials</a>
+<a href="http://www.msn.com">Trusts & Estate Planning</a>
+<a href="http://www.msn.com">Life Insurance</a>
+<a href="http://www.msn.com">Gifts of Real Estate</a>
+<a href="http://www.msn.com">Deferred Giving</a>
+</div>-->
+
+<!--4th drop down menu
+<div id="dropmenu4" class="dropmenudiv" style="width: 150px;">
+<a href="http://www.google.com/">Photo Gallery</a>
+<a href="http://www.yahoo.com">Video Gallery</a>
+
+</div>
+-->
+<!--5th drop down menu
+<div id="dropmenu5" class="dropmenudiv" style="width: 150px;">
+<a href="http://www.google.com/">Family Selection Process</a>
+<a href="http://www.yahoo.com">Download Application</a>
+
+</div>
+-->
+
+<script type="text/javascript">
+
+cssdropdown.startchrome("chromemenu")
+
+</script>
+      </td>
+    </tr>
+  </tbody>
+</table>

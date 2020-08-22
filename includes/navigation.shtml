@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html><head>
+
+<meta content="text/html; charset=ISO-8859-1" http-equiv="content-type"><title>menu</title>
+
+<link rel="stylesheet" type="text/css" href="/chromemenu/chrometheme/chromestyle.css" />
+
+<script type="text/javascript" src="/chromemenu/chromejs/chrome.js">
+
+/***********************************************
+* Chrome CSS Drop Down Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+</script>
+
+</head><body>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody>
+
+    <tr>
+      <td align="left" height="24" valign="middle" width="100%">
+        <table border="0" cellpadding="10" cellspacing="0" width="100%">
+          <tr>
+            <td>
+              <h2 align="center">Southern Gardening</h2>
+              <h3 align="center">What Do You Want to Grow Today?</h3>
+            </td>
+            <td width="150">
+
+<p align="center">
+
+<b><i>
+
+<a href="http://www.southerngardening.org/tip-jar.html"><img border="0" src="http://southerngardening.org/images/tip_jar.jpg" align="center" width="100" height="91"></a>
+
+<br>
+<a href="http://www.southerngardening.org/tip-jar.shtml">
+Help Us&nbsp;<br>
+Keep Growing!</a></i></b>
+</p>
+              </td>
+          </tr>
+        </table>
+        <div class="chromestyle" id="chromemenu">
+<ul>
+<li><a href="/index.html">Home</a></li>
+<li><a href="#" rel="dropmenu1">Southern Gardening</a></li>
+<li><a href="#" rel="dropmenu2">Notestein's Nursery</a></li>
+<!--<li><a href="#" rel="dropmenu3">Donate</a></li>
+<li><a href="#" rel="dropmenu5">Apply for a Home</a></li>
+<li><a href="http://www.dynamicdrive.com">Photos & Videos</a></li>	 -->
+<li><a href="/contact.html">Contact</a></li>
+</ul>
+</div>
+
+<!--1st drop down menu -->
+<div id="dropmenu1" class="dropmenudiv" style="width: 150px;">
+<a href="/l&g calendar.shtml">Lawn & Garden Calendar</a>
+<a href="/tips_help.shtml">Tips & Help</a>
+<a href="/firewise-agaves.shtml">Firewise Agaves</a>
+<a href="/rec_reading.shtml">Recommended Reading</a>
+<a href="/links.shtml">Links</a>
+<a href="/tip-jar.shtml">Donate</a>
+<a href="/contact.shtml">Contact</a>
+</div>
+
+
+<!--2nd drop down menu -->
+<div id="dropmenu2" class="dropmenudiv" style="width: 150px;">
+<a href="/plants.shtml">Plant Catalog</a>
+<a href="http://www.flickr.com/photos/64838743@N08/sets/72157627108647190/" target="_blank">Photo Gallery</a>
+<!--<a href="http://www.nfgrows.com/index.php?main_page=index&cPath=11&zenid=7ddbl5r5jsktp50hepepgqopl1" target="_blank">Buy Online</a>-->
+<a href="/agaves-for-landscape.shtml">Agave Catalog</a>
+<a href="http://www.flickr.com/photos/64838743@N08/sets/72157627131931036/" target="_blank">Agave Gallery</a>
+<a href="/rocks.shtml">Landscape Rocks</a>
+<a href="/dbn.html" >Designs by Notestein</a>
+<a href="/about.shtml">About Jim Notestein</a>
+<a href="/contact.html">Contact</a>
+<!--<a href="http://www.msnbc.com">Help Wanted</a>
+<a href="http://www.msnbc.com">Volunteer Online</a>
+<a href="http://www.msnbc.com">Volunteer by Mail</a>
+<a href="http://www.msnbc.com">Preparing for Work</a>
+<a href="http://www.msnbc.com">Volunteer Waiver Form</a>
+<a href="http://www.msnbc.com">Waiver Form for Minors</a>
+<a href="http://www.msnbc.com">Volunteer Nationally</a> -->
+</div>
+
+<!--3rd drop down menu
+<div id="dropmenu3" class="dropmenudiv" style="width: 150px;">
+<a href="http://www.google.com/">Ways to Donate</a>
+<a href="http://www.yahoo.com">Square Foot Club</a>
+<a href="http://www.msn.com">Monetary Donations</a>
+<a href="http://www.msn.com">Services</a>
+<a href="http://www.msn.com">Cars for Homes</a>
+<a href="http://www.msn.com">In Loving Memory</a>
+<a href="http://www.msn.com">Materials</a>
+<a href="http://www.msn.com">Trusts & Estate Planning</a>
+<a href="http://www.msn.com">Life Insurance</a>
+<a href="http://www.msn.com">Gifts of Real Estate</a>
+<a href="http://www.msn.com">Deferred Giving</a>
+</div>-->
+
+<!--4th drop down menu
+<div id="dropmenu4" class="dropmenudiv" style="width: 150px;">
+<a href="http://www.google.com/">Photo Gallery</a>
+<a href="http://www.yahoo.com">Video Gallery</a>
+
+</div>
+-->
+<!--5th drop down menu
+<div id="dropmenu5" class="dropmenudiv" style="width: 150px;">
+<a href="http://www.google.com/">Family Selection Process</a>
+<a href="http://www.yahoo.com">Download Application</a>
+
+</div>
+-->
+
+<script type="text/javascript">
+
+cssdropdown.startchrome("chromemenu")
+
+</script>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+</body></html>
