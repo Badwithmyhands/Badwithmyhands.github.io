@@ -1,10 +1,1 @@
 Options +Includes 
-
-
-#all requests to whatever.html will be sent to whatever.shtml:
-
-# For security reasons, Option followsymlinks cannot be overridden.
-#Options +FollowSymlinks
-Options +SymLinksIfOwnerMatch
-RewriteEngine on
-RewriteRule ^(.*)\.html$ $1.shtml [NC]

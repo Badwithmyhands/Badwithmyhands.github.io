@@ -1,7 +1,0 @@
-User-agent: *
-Disallow: /cgi-bin/
-Disallow: /images/
-
-sitemap: http://cdn.attracta.com/sitemap/91867.xml.gz
-
-sitemap: http://cdn.attracta.com/sitemap/91870.xml.gz

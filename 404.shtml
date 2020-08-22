@@ -1,2 +1,7 @@
-<!-- SHTML Wrapper - 404 Not Found -->
-<!--#exec cgi="/cgi-sys/fourohfour.cgi" -->
+<html><head><title>404 Not Found</title></head>
+<body bgcolor=white>
+<h1>404 Not Found</h1>
+
+The requested URL <!--#echo var="REQUEST_URI" --> does not exist.
+
+</body></html>
