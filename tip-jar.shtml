@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+<meta name="description" content="Southern Gardening provides in-depth articles and weekly news and tips on gardening in the Coastal South region of the U.S., focusing on North Central Florida.">
+<meta name="keyword" content="garden, gardening, southern gardening, florida gardening, regional gardening, nature gardening, groundcover landscape, landscaping, native plants, flowers, vegetables, gainesville, lawn, yard, xeriscape, xeriscaping">
+<meta name="author" content="Southern Gardening / http://www.southerngardening.org">
+<meta name="copyright" content="Copyright 2014 Southern Gardening">
+<meta name="robots" content="index, follow">
+<meta name="revisit-after" content="1 month">
+<title>The Tip Jar: Help Us Keep Growing!</title>
+<link href="/main.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<table style="font-family: Helvetica,Arial,sans-serif;" cellpadding="0">
+
+<tbody>
+
+<tr>
+
+<td style="width: 180px; vertical-align: top; background-color: ;">
+
+      <div style="text-align: center;"><!--#include virtual="includes/left_column.shtml"-->
+
+      </div>
+
+</td>
+
+<td style="width: 627px; vertical-align: top; background-color: #FFFFFF;">
+
+<!--#include virtual="includes/navigation.shtml"-->
+
+<div style="margin-left: 15px; margin-right: 10px;"><hr>
+
+  <h3><img border="0" src="http://southerngardening.org/images/southerngarden.jpg" align="right" hspace="10" vspace="10" width="325" height="218">Please
+  Help Us Keep SouthernGardening.org Growing!</h3>
+  <p><b>SouthernGardening.org is truly a labor of love</b>...our way of sharing
+  with others our passion for gardening and horticulture specific to the
+  Southeasteastern United States.</p>
+  <p><b> The information and resources on SouthernGardening.org are free to all
+  visitors.</b> But your contributions to the Tip Jar, no matter
+  how small, will help us defray the costs of domain registration, web hosting, and
+  the occasional cup of coffee for our brilliant and dedicated web guru.</p>
+  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <p><input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+">
+<input type="image" src="http://southerngardening.org/images/tip_jar.jpg" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" align="left" hspace="10" vspace="15" width="125" height="114">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form><b>Please
+  consider a small (or large!) donation today to help us keep
+  SouthernGardening.org growing and thriving.<i> Just click on the Tip Jar
+  (left)</i></b> --
+  you'll be taken to our secure donations page at Paypal where you can make a
+  donation in any amount using a credit card, or using your Paypal account if
+  you have one.
+  <h4><i>Thank you for your support! </i></h4>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="width: 180px;"></td>
+
+<td style="width: 627px; valign: middle;" align="center"><!--#include virtual="includes/footer.shtml"-->
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</body></html>

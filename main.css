@@ -1,0 +1,55 @@
+body {
+	BACKGROUND-COLOR:#EFEFEF;
+	FONT-FAMILY: Arial, Helvetica, san-serif;
+	FONT-SIZE: 10pt;
+	COLOR: #333333
+}
+p {
+	FONT-FAMILY: Arial, Helvetica, san-serif;
+	FONT-SIZE: 10pt;
+	COLOR: #333333;
+}
+div {
+	FONT-FAMILY: Arial, Helvetica, san-serif;
+	FONT-SIZE: 10pt;
+	COLOR: #333333;
+}
+H2 {
+	FONT-FAMILY: Arial, Helvetica, san-serif;
+	FONT-SIZE: 20pt;
+	color: rgb(153, 0, 0);
+}
+H3 {
+	FONT-FAMILY: Arial, Helvetica, san-serif;
+	FONT-SIZE: 16pt;
+	color: rgb(153, 0, 0);
+}
+H4 {
+	FONT-FAMILY: Arial, Helvetica, san-serif;
+	FONT-SIZE: 13pt;
+	color: rgb(153, 0, 0);
+}
+H5 {
+	FONT-FAMILY: Arial, Helvetica, san-serif;
+	FONT-SIZE: 10pt;
+	color: rgb(153, 0, 0);
+	font-weight: bold;
+}
+a {
+
+	font-weight: 900;
+	text-decoration: none;
+	font-size: 10pt;
+}
+a:link {
+	font-weight: 900;
+	text-decoration: none;
+	font-size: 10pt;
+}
+a:hover {
+	font-weight: 900;
+	text-decoration: underline;
+	font-size: 10pt;
+}
+
+
